@@ -16,10 +16,10 @@ Data science intern (Accenture, Milan Jan 2024 - )
 - Application Mantainance 
 
 ### Projects
-- Alzhaimer's Disease recognition and explaination (CNN with GradCAM)
+- Alzhaimer's Disease recognition and explaination (CNN with GradCAM)  
   https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-
-- Credit card fraud detection with ML
-  https://github.com/GiulioFabbri/Credit_card_fraud_detection
+- Credit card fraud detection with ML  
+  [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Credit_card_fraud_detection)
 - Predictor of negative-news exposition on the web for the italian journals
 - Is Carbon risk priced by the stock market?
 - Job placement prediction and gender gap evaluation
