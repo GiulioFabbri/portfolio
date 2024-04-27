@@ -1,4 +1,6 @@
-# Quantitative Analyst 
+# Graduate in data science
+
+### Description
 Born in Siena (Tuscany, Italy) on January 19, 2000.  
 I am graduate student close to completing my master's degree.  
 My passion has always been the analysis of economic phenomena shaping our society and I strongly believe that a scientific approach to data is the key to solving our challenges regarding the economic, environmental and social impact of our decisions.
