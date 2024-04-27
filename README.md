@@ -1,4 +1,5 @@
 # Quantitative Analyst 
+Born in Siena (Tuscany, Italy) on January 19, 2000.I am an intern in data science, close to my master's degree.My passion has always been the analysis of economic phenomena shaping our society and I strongly believe that a scientific approach to data is the key to solving our challenges regarding the economic, environmental and social impact of our decisions.
 
 ### Education
 Data Science Msc (2022-2024) Catholic University of the Sacred Heart  
