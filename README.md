@@ -1,4 +1,4 @@
-# Graduate in data science
+# Junior Data Scientist
 
 ### Description
 Born in Siena (Tuscany, Italy) on January 19, 2000.  
