@@ -1,7 +1,7 @@
 # Quantitative Analyst 
 
 ### Education
-Data Science Msc (2022-2024) Catholic University of the Sacred Heart
+Data Science Msc (2022-2024) Catholic University of the Sacred Heart  
 Economics & Statistics BSc (2019-2022) University of Siena
 
 ### Work Experience
