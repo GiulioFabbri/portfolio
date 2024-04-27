@@ -19,6 +19,7 @@ Data science intern (Accenture, Milan Jan 2024 - )
 - Alzhaimer's Disease recognition and explaination (CNN with GradCAM)
 - Predictor of negative-news exposition on the web for the italian journals
 - Credit card fraud detection with ML
+  https://github.com/GiulioFabbri/Credit_card_fraud_detection
 - Is Carbon risk priced by the stock market?
 - Job placement prediction and gender gap evaluation
 
