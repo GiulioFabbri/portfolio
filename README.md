@@ -16,16 +16,19 @@ Data science intern (Accenture, Milan Jan 2024 - )
 - Application Mantainance 
 
 ### Projects
-- Alzhaimer's Disease recognition and explaination (CNN with GradCAM)  
+- Alzhaimer's Disease recognition and explaination (Python)  
   [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
-- Credit card fraud detection with ML  
+- Credit card fraud detection with ML (Python)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Credit_card_fraud_detection)
-- Predictor of negative-news exposition on the web for the italian journals
-- Is Carbon risk priced by the stock market?
-- Job placement prediction and gender gap evaluation  
+- Is Carbon risk priced by the stock market? (R)  
+  [https://github.com/GiulioFabbri/Carbon-risk-pricing](https://github.com/GiulioFabbri/Carbon-risk-pricing)
+- Job placement prediction and gender gap evaluation (R)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
 
-
+Ongoing projects:
+- Negative news exposition on the web: daily web scraper of the most important italian journals that classify the percentage of negative news, using a dataset that I'm building
+- Green Fama & French model: that accounts for polluters/non polluters company for predicting stock return
+- Reinforcement learning application 
 
 
 
