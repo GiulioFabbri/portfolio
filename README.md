@@ -22,7 +22,8 @@ Data science intern (Accenture, Milan Jan 2024 - )
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Credit_card_fraud_detection)
 - Predictor of negative-news exposition on the web for the italian journals
 - Is Carbon risk priced by the stock market?
-- Job placement prediction and gender gap evaluation
+- Job placement prediction and gender gap evaluation  
+  [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
 
 
 
