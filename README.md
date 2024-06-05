@@ -16,6 +16,8 @@ Data science intern (Accenture, Milan Jan 2024 - )
 - Application Mantainance 
 
 ### Projects
+- Time Series Users prediction (Python)  
+  [https://github.com/GiulioFabbri/Time-Series-Users-prediction](https://github.com/GiulioFabbri/Time-Series-Users-prediction)
 - Alzhaimer's Disease recognition and explaination (Python)  
   [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
 - Credit card fraud detection with ML (Python)  
