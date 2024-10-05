@@ -16,21 +16,23 @@ Data science intern (Accenture, Milan Jan 2024 - )
 - Application Mantainance 
 
 ### Projects
-- Time Series Users prediction (Python)  
+- Time Series Webpage Users prediction (Python)  
   [https://github.com/GiulioFabbri/Time-Series-Users-prediction](https://github.com/GiulioFabbri/Time-Series-Users-prediction)
-- Alzhaimer's Disease recognition and explaination (Python)  
-  [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
 - Credit card fraud detection with ML (Python)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Credit_card_fraud_detection)
+- Reinforcement Learning algorithms comparison (Python)
+  [https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison](https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison)
+- Alzhaimer's Disease recognition and explaination (Python)  
+  [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
+  
 - Is Carbon risk priced by the stock market? (R)  
   [https://github.com/GiulioFabbri/Carbon-risk-pricing](https://github.com/GiulioFabbri/Carbon-risk-pricing)
 - Job placement prediction and gender gap evaluation (R)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
 
 Ongoing projects:
-- Negative news exposition on the web: daily web scraper of the most important italian journals that classify the percentage of negative news, using a dataset that I'm building
-- Green Fama & French model: that accounts for polluters/non polluters company for predicting stock return
-- Reinforcement learning application 
+- Carbon risk scenario analysis (Python)
+- Evaluation of the models used for the second European Climate stress test (R)
 
 
 
