@@ -31,7 +31,6 @@ Data science intern (Accenture, Milan Jan 2024 - )
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
 
 Ongoing projects:
-- Carbon risk scenario analysis (Python)
 - Evaluation of the models used for the second European Climate stress test (R)
 
 
