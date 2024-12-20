@@ -1,9 +1,9 @@
 # Giulio Fabbri
 
 ### Description
-I am an Italian emerging professional with almost a year of experience in the data sector, based in Dublin. My academic background in Statistics and Economics at undergraduate level, along with an international MSc in Data Science, has provided me with a strong foundation for tackling complex data challenges.
-I gained international experience both during my studies (Erasmus in Belgium and a Master's degree in English) and during my working career, collaborating with international teams and moving permanently to Ireland.
-My passion has always been analyzing the economic phenomena that shape our society, and I strongly believe that a scientific approach to data is key to solving the economic, environmental, and social challenges we face in today's world.
+I am an Italian emerging professional with almost a year of experience in the data sector, based in Dublin. My academic background in Statistics and Economics at undergraduate level, along with an international MSc in Data Science, has provided me with a strong foundation for tackling complex data challenges.  
+I gained international experience both during my studies (Erasmus in Belgium and a Master's degree in English) and during my working career, collaborating with international teams and moving permanently to Ireland.   
+My passion has always been analyzing the economic phenomena that shape our society, and I strongly believe that a scientific approach to data is key to solving the economic, environmental, and social challenges we face in today's world.   
 
 ### Education
 Msc - Applied data science for banking and finance (2022-2024) Catholic University of the Sacred Heart  
