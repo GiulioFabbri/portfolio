@@ -1,8 +1,8 @@
 # Giulio Fabbri
 
 ### Description
-I am an Italian emerging professional with almost a year of experience in the data sector, living in Dublin. 
-My academic background in statistics and economics at the undergraduate level, along with my intentional MSc in Data Science, has provided me with a strong foundation for tackling complex data challenges. In addition, my experience studying abroad and working with international teams has further enhanced my ability to collaborate across cultures, allowing me to gain valuable insights and experiences, even as I am early in my career.
+I am an Italian emerging professional with almost a year of experience in the data sector, based in Dublin. My academic background in Statistics and Economics at undergraduate level, along with an international MSc in Data Science, has provided me with a strong foundation for tackling complex data challenges.
+I gained international experience both during my studies (Erasmus in Belgium and a Master's degree in English) and during my working career, collaborating with international teams and moving permanently to Ireland.
 My passion has always been analyzing the economic phenomena that shape our society, and I strongly believe that a scientific approach to data is key to solving the economic, environmental, and social challenges we face in today's world.
 
 ### Education
@@ -10,10 +10,14 @@ Msc - Applied data science for banking and finance (2022-2024) Catholic Universi
 BSc - Economics & Statistics (2019-2022) University of Siena
 
 ### Work Experience
-Data science intern (Accenture, Milan Jan 2024 - )
-- Studying and analyzing data flows of big energy producers & sellers in the italian market 
-- Developing and testing of new features for the energy APP of Poste Italiane
-- Application Mantainance 
+Energy Data Management and Forecasting for the Accenture AIP platform  
+In this role, I had the opportunity to:  
+ - Analyse the data flows and models of the application  
+ - Work on energy consumption forecasting (R software)  
+ - Perform application maintenance  
+ - Write technical manuals (Azure DevOps)  
+ - Lead User Acceptance Testing (UAT) sessions with clients  
+ - Collaborate with international teams
 
 ### Projects
 - Time Series Webpage Users prediction (Python)  
