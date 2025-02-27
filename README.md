@@ -11,13 +11,11 @@ BSc - Economics & Statistics (2019-2022) University of Siena
 
 ### Work Experience
 Energy Data Management and Forecasting for the Accenture AIP platform  
-In this role, I had the opportunity to:  
- - Analyse the data flows and models of the application  
- - Work on energy consumption forecasting (R software)  
- - Perform application maintenance  
- - Write technical manuals (Azure DevOps)  
- - Lead User Acceptance Testing (UAT) sessions with clients  
- - Collaborate with international teams
+•	Completed structured training in data analytics, security, time series forecasting, and R software.
+•	Designed and implemented new application features, including a customer churn prediction model.
+•	Led User Acceptance Testing (UAT) sessions, presenting insights with PowerPoint, Tableau, and Canva.
+•	Maintained and supported the application, independently managing client interactions to resolve issues and improve functionality.
+
 
 ### Projects
 - Time Series Webpage Users prediction (Python)  
