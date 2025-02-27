@@ -28,11 +28,13 @@ In this role, I had the opportunity to:
   [https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison](https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison)
 - Alzhaimer's Disease recognition and explaination (Python)  
   [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
-  
 - Is Carbon risk priced by the stock market? (R)  
   [https://github.com/GiulioFabbri/Carbon-risk-pricing](https://github.com/GiulioFabbri/Carbon-risk-pricing)
 - Job placement prediction and gender gap evaluation (R)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
+- Revenue Maximization Analyzing Flight Fare Strategies   
+[[https://github.com/GiulioFabbri/Revenue-Maximization-Analyzing-Flight-Fare-Strategies/blob/main/README.md](https://github.com/GiulioFabbri/Revenue-Maximization-Analyzing-Flight-Fare-Strategies)
+
 
 Ongoing projects:
 - Evaluation of the models used for the second European Climate stress test (R)
