@@ -17,25 +17,25 @@ Energy Data Management and Forecasting for the Accenture AIP platform
 •	Maintained and supported the application, independently managing client interactions to resolve issues and improve functionality.
 
 
-### Projects
+## Projects
+### Data Science & Machine Learning Projects
 - Time Series Webpage Users prediction (Python)  
   [https://github.com/GiulioFabbri/Time-Series-Users-prediction](https://github.com/GiulioFabbri/Time-Series-Users-prediction)
 - Credit card fraud detection with ML (Python)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Credit_card_fraud_detection)
 - Reinforcement Learning algorithms comparison (Python)  
   [https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison](https://github.com/GiulioFabbri/Reinforcement-Learning-algorithms-comparison)
-- Alzhaimer's Disease recognition and explaination (Python)  
-  [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
-- Is Carbon risk priced by the stock market? (R)  
-  [https://github.com/GiulioFabbri/Carbon-risk-pricing](https://github.com/GiulioFabbri/Carbon-risk-pricing)
 - Job placement prediction and gender gap evaluation (R)  
   [https://github.com/GiulioFabbri/Credit_card_fraud_detection](https://github.com/GiulioFabbri/Job-placement-predictor-and-gender-gap-analysis)
-- Revenue Maximization Analyzing Flight Fare Strategies   
+- Alzhaimer's Disease recognition and explaination (Python)  
+  [https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-](https://github.com/GiulioFabbri/Alzhaimer-s-Disease-recognition-)
+
+### Data analytics and business 
+- Revenue Maximization Analyzing Flight Fare Strategies (Excel, R)
 [[https://github.com/GiulioFabbri/Revenue-Maximization-Analyzing-Flight-Fare-Strategies/blob/main/README.md](https://github.com/GiulioFabbri/Revenue-Maximization-Analyzing-Flight-Fare-Strategies)
 
-
-Ongoing projects:
-- Evaluation of the models used for the second European Climate stress test (R)
+### Master Thesis:
+- Evaluation of the models used for the second European Climate stress test (Excel, R)
 
 
 
