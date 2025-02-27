@@ -32,6 +32,8 @@ Energy Data Management and Forecasting for the Accenture AIP platform
 ### Data Analytics and Business  
 - **Revenue Maximization: Analyzing Flight Fare Strategies (Excel, R)**  
   [GitHub Link](https://github.com/GiulioFabbri/Revenue-Maximization-Analyzing-Flight-Fare-Strategies)
+- **Data Analytics for Insurance: Mortgage Default Prediction (SAS, SAS Viya)**    
+  [GitHub Link](https://github.com/GiulioFabbri/Data-Analytics-for-Insurance-Mortgage-Default-Prediction)
 
 ### Master Thesis  
 - **Evaluation of the Models Used for the Second European Climate Stress Test (Excel, R)**  
