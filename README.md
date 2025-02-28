@@ -8,14 +8,6 @@ My passion has always been analyzing the economic phenomena that shape our socie
 Msc - Applied data science for banking and finance (2022-2024) Catholic University of the Sacred Heart  
 BSc - Economics & Statistics (2019-2022) University of Siena
 
-## Work Experience
-Energy Data Management and Forecasting for the Accenture AIP platform  
-•	Completed structured training in data analytics, security, time series forecasting, and R software.
-•	Designed and implemented new application features, including a customer churn prediction model.
-•	Led User Acceptance Testing (UAT) sessions, presenting insights with PowerPoint, Tableau, and Canva.
-•	Maintained and supported the application, independently managing client interactions to resolve issues and improve functionality.
-
-
 ## Projects
 ### Data Science & Machine Learning Projects
 - **Time Series Webpage Users Prediction (Python)**  
